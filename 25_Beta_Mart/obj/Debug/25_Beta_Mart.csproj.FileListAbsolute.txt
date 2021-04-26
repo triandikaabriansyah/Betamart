@@ -1,0 +1,22 @@
+G:\FILE DIKA\coding\C#\25_Beta_Mart\25_Beta_Mart\bin\Debug\barang.accdb
+G:\FILE DIKA\coding\C#\25_Beta_Mart\25_Beta_Mart\bin\Debug\25_Beta_Mart.exe.config
+G:\FILE DIKA\coding\C#\25_Beta_Mart\25_Beta_Mart\bin\Debug\25_Beta_Mart.exe
+G:\FILE DIKA\coding\C#\25_Beta_Mart\25_Beta_Mart\bin\Debug\25_Beta_Mart.pdb
+G:\FILE DIKA\coding\C#\25_Beta_Mart\25_Beta_Mart\obj\Debug\25_Beta_Mart.csprojAssemblyReference.cache
+G:\FILE DIKA\coding\C#\25_Beta_Mart\25_Beta_Mart\obj\Debug\_25_Beta_Mart.Form1.resources
+G:\FILE DIKA\coding\C#\25_Beta_Mart\25_Beta_Mart\obj\Debug\_25_Beta_Mart.Properties.Resources.resources
+G:\FILE DIKA\coding\C#\25_Beta_Mart\25_Beta_Mart\obj\Debug\25_Beta_Mart.csproj.GenerateResource.cache
+G:\FILE DIKA\coding\C#\25_Beta_Mart\25_Beta_Mart\obj\Debug\25_Beta_Mart.csproj.CoreCompileInputs.cache
+G:\FILE DIKA\coding\C#\25_Beta_Mart\25_Beta_Mart\obj\Debug\25_Beta_Mart.exe
+G:\FILE DIKA\coding\C#\25_Beta_Mart\25_Beta_Mart\obj\Debug\25_Beta_Mart.pdb
+G:\FILE DIKA\Tugas Sekolah\UKK\25_Beta_Mart\25_Beta_Mart\bin\Debug\barang.accdb
+G:\FILE DIKA\Tugas Sekolah\UKK\25_Beta_Mart\25_Beta_Mart\bin\Debug\25_Beta_Mart.exe.config
+G:\FILE DIKA\Tugas Sekolah\UKK\25_Beta_Mart\25_Beta_Mart\bin\Debug\25_Beta_Mart.exe
+G:\FILE DIKA\Tugas Sekolah\UKK\25_Beta_Mart\25_Beta_Mart\bin\Debug\25_Beta_Mart.pdb
+G:\FILE DIKA\Tugas Sekolah\UKK\25_Beta_Mart\25_Beta_Mart\obj\Debug\25_Beta_Mart.csprojAssemblyReference.cache
+G:\FILE DIKA\Tugas Sekolah\UKK\25_Beta_Mart\25_Beta_Mart\obj\Debug\_25_Beta_Mart.Form1.resources
+G:\FILE DIKA\Tugas Sekolah\UKK\25_Beta_Mart\25_Beta_Mart\obj\Debug\_25_Beta_Mart.Properties.Resources.resources
+G:\FILE DIKA\Tugas Sekolah\UKK\25_Beta_Mart\25_Beta_Mart\obj\Debug\25_Beta_Mart.csproj.GenerateResource.cache
+G:\FILE DIKA\Tugas Sekolah\UKK\25_Beta_Mart\25_Beta_Mart\obj\Debug\25_Beta_Mart.csproj.CoreCompileInputs.cache
+G:\FILE DIKA\Tugas Sekolah\UKK\25_Beta_Mart\25_Beta_Mart\obj\Debug\25_Beta_Mart.exe
+G:\FILE DIKA\Tugas Sekolah\UKK\25_Beta_Mart\25_Beta_Mart\obj\Debug\25_Beta_Mart.pdb
